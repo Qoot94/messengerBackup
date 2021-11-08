@@ -1,0 +1,6 @@
+
+Podfile
+Pods/FBSDKCoreKit/FacebookSDKStrings 2.bundle/Resources/cs.lproj/FacebookSDK.strings
+*.strings
+*.strings
+Pods/FBSDKCoreKit/FacebookSDKStrings 2.bundle/Resources/af.lproj/FacebookSDK.strings
